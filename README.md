@@ -6,7 +6,7 @@ These notebooks were completed as part of the program's curriculum, covering Pyt
 
 ## Contents
 
-### 📁 신용평가모델 (Credit Evaluation Model — course notebooks)
+#### 신용평가모델 (Credit Evaluation Model — course notebooks)
 
 | # | Notebook | Topic |
 |---|---|---|
@@ -19,7 +19,7 @@ These notebooks were completed as part of the program's curriculum, covering Pyt
 | 7 | `7강) 데이터 전처리.ipynb` | Data preprocessing |
 | - | `CSS_Python.ipynb` | CSS × Python |
 
-### 📁 금융데이터 (Financial Data)
+#### 금융데이터 (Financial Data)
 
 | Notebook | Topic |
 |---|---|
