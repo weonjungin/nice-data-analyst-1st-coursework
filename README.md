@@ -19,4 +19,4 @@ These notebooks were completed as part of the program's curriculum, covering Pyt
  
 ## Note
  
-This repository contains coursework/learning materials, not original research. For research projects, see [ADLip2](https://github.com/weonjungin/ADLip2) and [lip-sync-score](https://github.com/weonjungin/lip-sync-score).
+This repository contains coursework/learning materials, not original research.
